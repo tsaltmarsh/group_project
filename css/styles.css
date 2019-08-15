@@ -1,6 +1,13 @@
+h1 {
+  font-size: 7em;
+  font-family: fantasy;
+}
+h2{
+  font-size: 4em;
+}
 body {
   padding-top: 5rem;
-  background-image: url("https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/marvelstudios-2016logo.jpg");
+
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
