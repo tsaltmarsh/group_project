@@ -3,15 +3,18 @@ h1 {
   font-family: fantasy;
   color: rgb(204, 0, 0);
 }
-h2{
+h2 {
   font-size: 4em;
 }
 body {
   padding-top: 5rem;
+}
 
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
 }
 
-col-sm{padding-top: 5rem;}
+.col-sm {
+  padding-top: 5rem;
+}
