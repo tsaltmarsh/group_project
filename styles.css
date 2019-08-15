@@ -1,6 +1,8 @@
+head{}
 body {
   padding-top: 5rem;
-  background-image: image("./images/marvel.jpeg");
+  background-color: red;
+  background-image: image("./images/Marvel-Logo.png");
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
