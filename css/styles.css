@@ -2,12 +2,14 @@ h1 {
   font-size: 7em;
   font-family: fantasy;
   color: rgb(204, 0, 0);
+  text-align: center;
 }
 h2 {
   font-size: 4em;
+  text-align: left;
 }
 body {
-  padding-top: 5rem;
+  padding-top: 7rem;
 }
 
 .starter-template {
