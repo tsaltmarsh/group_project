@@ -6,7 +6,7 @@ h1 {
 }
 h2 {
   font-size: 4em;
-  text-align: left;
+  text-align: center;
   color: black;
 }
 body {
@@ -34,4 +34,8 @@ body {
 
 p {
   text-align: center;
+}
+h3{
+  text-align: left;
+  font-size: 1em
 }
