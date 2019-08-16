@@ -34,7 +34,10 @@ body {
 
 p {
   text-align: center;
+  padding-left: 4rem;
+  padding-right: 4rem;
 }
+
 h3{
   text-align: left;
   font-size: 1em
