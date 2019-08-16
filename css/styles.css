@@ -23,3 +23,7 @@ body {
 .col {
   padding-top: 5rem;
 }
+
+.nav-link {
+  color: white;
+}
