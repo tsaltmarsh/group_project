@@ -7,6 +7,7 @@ h1 {
 h2 {
   font-size: 4em;
   text-align: left;
+  color: black;
 }
 body {
   padding-top: 7rem;
@@ -19,6 +20,6 @@ body {
   text-align: center;
 }
 
-.col-sm {
+.col {
   padding-top: 5rem;
 }
