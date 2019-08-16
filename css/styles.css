@@ -4,6 +4,11 @@ h1 {
 }
 h2{
   font-size: 4em;
+<<<<<<< Updated upstream
+=======
+  text-align: left;
+  color: black;
+>>>>>>> Stashed changes
 }
 body {
   padding-top: 5rem;
@@ -12,3 +17,19 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+<<<<<<< Updated upstream
+=======
+
+<<<<<<< HEAD
+.col-sm {
+  padding-bottom: 20px;
+=======
+.col {
+  padding-top: 5rem;
+>>>>>>> aa3f63c12b0e82167b2ebcd5379d9a0a78d328b9
+}
+
+.nav-link {
+  color: white;
+}
+>>>>>>> Stashed changes
